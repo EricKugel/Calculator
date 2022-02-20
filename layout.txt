@@ -1,0 +1,9 @@
+# Separate buttons with colons
+# Rows can have any number of columns
+:C:del:(:):<-:->:
+:π:1:2:3:+:
+:e:4:5:6:-:
+:sin:7:8:9:*:
+:cos:%:0:.:/:
+:tan:sqrt:abs:ln:^:
+:=:
